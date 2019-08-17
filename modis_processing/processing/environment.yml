@@ -1,0 +1,9 @@
+name: mod_processing
+channels:
+- !!python/unicode
+  'conda-forge'
+dependencies:
+- python=3.6
+- gdal
+- matplotlib
+- notebook

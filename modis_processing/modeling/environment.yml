@@ -1,0 +1,12 @@
+name: ts_analysis
+channels:
+- !!python/unicode
+  'conda-forge'
+dependencies:
+- python=3.6
+- statsmodels
+- scipy
+- numpy
+- pandas
+- seaborn
+- matplotlib
